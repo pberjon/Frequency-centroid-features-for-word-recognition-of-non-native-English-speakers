@@ -10,7 +10,7 @@ With the spirit of reproducible research, this repository contains all the codes
 
 ### Code
 All codes are written in `python3`.
-+ `cnn.py` : Used with à right part of the dataset (for examples french MFCCs), it gives the results shown in the article.
++ `data_generation_noise.py` : Give the different codes used to determine the noisy dataset used to get the results at the end of the article.
 + `multiple_features.py`: Give the different codes used to determine the different features extraction techniques results.
 
 
