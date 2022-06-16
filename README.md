@@ -1,6 +1,6 @@
 ## Feature Extraction Techniques for Word Recognition of Non-Native English Speakers
 
-With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
+With the spirit of reproducible research, this repository contains all the codes required to produce the results in the [manuscript](https://arxiv.org/pdf/2206.07176.pdf):
 
 > P. Berjon\*, R. Sharma\*, A. Nag, and S. Dev, Frequency-centroid features for word recognition of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2022. (\* Authors contributed equally.)
 
